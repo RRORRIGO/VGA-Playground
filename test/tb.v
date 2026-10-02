@@ -28,7 +28,7 @@ module  tt_um_RRORRIGO_LOGO ();
 `endif
 
   // Replace tt_um_example with your module name:
- tt_um_RRORRIGO_LOGO (
+ tt_um_RRORRIGO_LOGO user_project (
 
       // Include power ports for the Gate Level test:
 `ifdef GL_TEST
